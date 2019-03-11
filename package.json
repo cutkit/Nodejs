@@ -1,0 +1,19 @@
+{
+  "name": "server_01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cutkit/Nodejs.git"
+  },
+  "author": "tudu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cutkit/Nodejs/issues"
+  },
+  "homepage": "https://github.com/cutkit/Nodejs#readme"
+}
